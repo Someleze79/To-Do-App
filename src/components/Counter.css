@@ -1,0 +1,12 @@
+/* src/components/Counter.css */
+.counter {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-weight: bold;
+    z-index: 1000;
+  }
