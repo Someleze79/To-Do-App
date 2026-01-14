@@ -25,7 +25,7 @@ A modern and user-friendly *To-Do Application* built with *React* and *Redux*. T
 
 ## 📂 Project Structure
 
-src/ │── components/ │   ├── TodoForm.js │   ├── TodoItem.js │   ├── TodoList.js │   └── InfoPopup.js │ │── redux/ │   ├── store.js │   └── todoSlice.js │ │── App.js │── index.js │── App.css
+src/ │ ├── app/ │   └── store.js │ ├── components/ │   ├── Counter.js │   ├── Counter.css │   ├── EditModal.js │   └── InfoModal.js │ ├── features/ │   └── todos/ │       ├── TodoList.js │       ├── TodoList.css │       └── TodoSlice.js │ ├── App.js └── index.js
 
 ---
 
