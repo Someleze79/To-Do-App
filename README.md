@@ -1,4 +1,4 @@
-# To-DO App
+# 📝 To-DO App
 
 A modern and user-friendly *To-Do Application* built with *React* and *Redux*. This app helps users manage daily tasks efficiently by allowing them to create, update, complete, and delete tasks through a clean and intuitive interface.
 
