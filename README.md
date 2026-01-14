@@ -2,7 +2,7 @@ A modern and user-friendly *To-Do Application* built with *React* and *Redux*. T
 
 ---
 
-## Features
+## 🚀 Features
 
 - Add Tasks – Create new tasks easily  
 - Edit Tasks – Update existing tasks using a modal  
@@ -14,7 +14,7 @@ A modern and user-friendly *To-Do Application* built with *React* and *Redux*. T
 
 ---
 
-## Technologies Used
+## 🧰 Technologies Used
 
 - React – Component-based UI development  
 - Redux / Redux Toolkit – Global state management  
@@ -29,7 +29,7 @@ src/ │ ├── app/ │   └── store.js │ ├── components/ │  
 
 ---
 
-## Installation & Setup
+## 🛠️ Installation & Setup
 
 ```bash
 1. Clone the repository
