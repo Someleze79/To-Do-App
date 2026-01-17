@@ -21,7 +21,8 @@ A modern and user-friendly *To-Do Application* built with *React* and *Redux*. T
 - *React* – Component-based UI development  
 - *Redux* / Redux Toolkit – Global state management  
 - *JavaScript (ES6+)* – Application logic  
-- *CSS / Bootstrap* – Styling and responsive layout  
+- *CSS / Bootstrap* – Styling and responsive layout
+- *HTML* – Application structure
 
 ---
 
